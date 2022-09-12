@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToyCoinInformation</string>
+    <string name="isActive_ok">active</string>
+    <string name="isActive_no">not active</string>
+</resources>
